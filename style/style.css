@@ -1,0 +1,15 @@
+div
+{
+    font-size: 20px;
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+}
+.grid
+{
+    background-color: black;
+}
+.main_button
+{
+    align-items: center;
+}
