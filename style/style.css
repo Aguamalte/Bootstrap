@@ -1,15 +1,28 @@
-div
+.containers_responsive
 {
     font-size: 20px;
-    background-color: black;
     color: antiquewhite;
     text-align: center;
+}
+.containers_responsive div
+{
+    background-color: black;
 }
 .grid
 {
     background-color: black;
 }
-.main_button
+.main_buttons
 {
     align-items: center;
+    text-align: center;
+}
+.container
+{
+    background-color: bisque;
+}
+.col
+{
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
